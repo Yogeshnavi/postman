@@ -1,0 +1,15 @@
+{
+	"id": "ab92132b-76f4-41ef-9d95-b5a1430e610d",
+	"name": "TestAPI",
+	"values": [
+		{
+			"key": "base_url",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2024-05-14T18:46:14.109Z",
+	"_postman_exported_using": "Postman/10.24.25"
+}
