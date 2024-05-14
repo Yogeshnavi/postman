@@ -17,6 +17,6 @@ jobs:
       run: npm install -g newman
 
     - name: Run Postman Tests
-      run: newman run TestPostman.json --env-var "base_url=http://localhost:3000/"
+      run: newman run TestPostman.json --env-var "base_url=http://localhost:3000/" --verbose
 
 
